@@ -124,7 +124,7 @@
 // 2. Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 // double distAB(int x1, int y1, int x2, int y2, int z1, int z2)
 // {
-// return Math.Sqrt(Math.Pow(Math.Abs((x2 - x1)), 2) + Math.Pow(Math.Abs((y2 - y1)), 2) + Math.Pow(Math.Abs((z2 - z1)), 2));
+// return (Math.Pow(Math.Abs((x2 - x1)), 2) + Math.Pow(Math.Abs((y2 - y1)), 2) + Math.Pow(Math.Abs((z2 - z1)), 2));
 // }
 
 // Console.WriteLine("Введите координту Х1: ");
